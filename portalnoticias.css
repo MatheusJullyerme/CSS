@@ -1,0 +1,42 @@
+    h1 {
+        color: #0052ce9c;
+    }
+
+    h3 {
+        color:blueviolet
+    }
+
+    i {
+        color:#0099ff
+    }
+   a:hover { 
+    color:aquamarine
+   }
+   body {
+    background-color: #f0e9e9;
+   }
+   h2 {
+    color: pink; 
+   }
+   #sports h2 {
+    background-color: #000000e7;
+    font-size: 50px;
+   }
+   #economy h2 {
+    background-color: #000000e7;
+    font-size: 50px;
+   }
+   #religion h2 {
+    background-color: #000000e7;
+    font-size: 50px;
+   }
+   #news h2 {
+    background-color: #000000e7;
+    font-size: 50px;
+   }
+
+   
+
+   .thebest {
+    background-color: #0bacb89a;
+   }
