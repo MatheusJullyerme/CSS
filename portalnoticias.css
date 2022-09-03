@@ -1,42 +1,48 @@
-    h1 {
-        color: #0052ce9c;
-    }
+* {
+    box-sizing: border-box;
+    margin: 37px;   
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
 
-    h3 {
-        color:blueviolet
-    }
-
-    i {
-        color:#0099ff
-    }
-   a:hover { 
-    color:aquamarine
-   }
-   body {
-    background-color: #f0e9e9;
-   }
-   h2 {
-    color: pink; 
-   }
-   #sports h2 {
-    background-color: #000000e7;
-    font-size: 50px;
-   }
-   #economy h2 {
-    background-color: #000000e7;
-    font-size: 50px;
-   }
-   #religion h2 {
-    background-color: #000000e7;
-    font-size: 50px;
-   }
-   #news h2 {
-    background-color: #000000e7;
-    font-size: 50px;
-   }
-
-   
-
-   .thebest {
+h1 {
+    color: #0052ce9c;
     background-color: #0bacb89a;
-   }
+
+}
+
+h3 {
+    color:blueviolet
+}
+
+i {
+    color:#0099ff
+    
+}
+a:hover { 
+color:aquamarine
+}
+body {
+background-color: #f0e9e9;
+}
+h2 {
+color: pink; 
+}
+#sports h2 {
+background-color: #000000e7;
+font-size: 50px;
+}
+#economy h2 {
+background-color: #000000e7;
+font-size: 50px;
+}
+#religion h2 {
+background-color: #000000e7;
+font-size: 50px;
+}
+#news h2 {
+background-color: #000000e7;
+font-size: 50px;
+}
